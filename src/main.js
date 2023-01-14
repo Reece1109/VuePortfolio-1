@@ -5,6 +5,6 @@ import store from './store'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap.js'
 import '@/assets/css/style.css';
-Vue.config.productionTip = false
+
 
 createApp(App).use(store).use(router).mount('#app')
