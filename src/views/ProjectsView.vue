@@ -1,7 +1,7 @@
 <template>
     <Project />
   </template>
-  
+
   <script>
   import Project from '@/components/Project.vue';
   export default {
@@ -11,5 +11,5 @@
   }
   </script>
   <style>
-    
+
   </style>
