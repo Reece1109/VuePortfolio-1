@@ -23,6 +23,7 @@ export default {
 <style>
 .about-page {
   text-align: center;
+  background-image: url(https://i.postimg.cc/sxwPgq23/about-port.jpg);
 }
 
 .page-title {

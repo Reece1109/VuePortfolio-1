@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <p>Got caught masturbating but still ain't no-one see me cumin</p>
+    <p></p>
   </div>
 </template>
 
